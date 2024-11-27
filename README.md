@@ -1,4 +1,4 @@
-![images](https://github.com/user-attachments/assets/ed7e690f-eb03-4130-92df-0cd653a1e947)
+![logo](https://github.com/user-attachments/assets/ed7e690f-eb03-4130-92df-0cd653a1e947)
 
 
 # 💫 About Me:
