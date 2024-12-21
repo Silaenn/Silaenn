@@ -5,7 +5,7 @@
 🌟 Welcome to My GitHub! 🌟<br>Hi there! 👋 I'm Deo Keldi Silaen, a passionate game developer and web developer enthusiast who loves turning ideas into immersive digital experiences.<br><br>🚀 What I Do:<br>Game Development: Creating engaging games with Unity and C#, from 2D adventures to exciting gameplay mechanics.<br>Web Development: Building intuitive, responsive websites using React, Next.js, and modern web technologies.<br>Creative Problem-Solving: Bringing ideas to life with a focus on clean code, great design, and fun user experiences.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/deoo2874) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deoosilaen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deo-silaen-a434492b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) 
 
 # 💻 Tech Stack:
