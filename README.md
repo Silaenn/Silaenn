@@ -1,11 +1,10 @@
 
-
-
 # 💫 About Me:
 ## 🌟 Welcome to My GitHub! 🌟
-<br>Hi there! I'm Deo Keldi Silaen , a passionate Game Developer and Web Developer who thrives on turning ideas into immersive digital experiences. Whether it's crafting exciting gameplay mechanics or building sleek, responsive websites, I love blending creativity with technology to create meaningful interactions.
+Hi there! I'm Deo Keldi Silaen , a passionate Game Developer and Web Developer who thrives on turning ideas into immersive digital experiences. Whether it's crafting exciting gameplay mechanics or building sleek, responsive websites, I love blending creativity with technology to create meaningful interactions.
+
 ## 🚀 What I Do:
-<br>Game Development: Creating engaging games with Unity and C#, from 2D adventures to exciting gameplay mechanics.<br>Web Development: Building intuitive, responsive websites using React, Next.js, and modern web technologies.<br>Creative Problem-Solving: Bringing ideas to life with a focus on clean code, great design, and fun user experiences.<br>
+Game Development: Creating engaging games with Unity and C#, from 2D adventures to exciting gameplay mechanics.<br>Web Development: Building intuitive, responsive websites using React, Next.js, and modern web technologies.<br>Creative Problem-Solving: Bringing ideas to life with a focus on clean code, great design, and fun user experiences.<br>
 
 
 # 🌐 Socials:
