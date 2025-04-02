@@ -1,5 +1,5 @@
 <h1> 💫 About Me </h1>
-## 🌟 Welcome to My GitHub! 🌟
+🌟 Welcome to My GitHub! 🌟
 Hi there! I'm Deo Keldi Silaen , a passionate Game Developer and Web Developer who thrives on turning ideas into immersive digital experiences. Whether it's crafting exciting gameplay mechanics or building sleek, responsive websites, I love blending creativity with technology to create meaningful interactions.
 
 ## 🚀 What I Do:
