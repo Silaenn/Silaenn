@@ -43,7 +43,7 @@
 <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&layout=compact" width="380"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Silaenn&theme=neon&hide_border=true" width="760"/></td>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Silaenn&theme=neon&hide_border=true" width="660"/></td>
 </tr>
 </table>
 
