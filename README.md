@@ -13,18 +13,36 @@
 
 ---
 
+### 🎮 Featured Projects
+
+**[TaskTune](https://task-tune.vercel.app)** — Full-stack productivity app with task management, YouTube music player, Google OAuth.
+`Next.js 15` `FastAPI` `Turso` `Zustand`
+[repo](https://github.com/Silaenn/MyTodoApp)
+
+**[Chat App](https://chatskuy-app.vercel.app)** — Real-time chat with presence indicators, block/unblock, offline persistence.
+`React 18` `Firebase` `Zustand`
+[repo](https://github.com/Silaenn/react-chat)
+
+**[Jejak Pancasila](https://silaenn.itch.io/jejak-pancasila)** — 2D pixel art game about life choices reflecting Pancasila values.
+`Unity3D` `C#` `Android`
+[repo](https://github.com/Silaenn/EdukatifDev)
+
 ### 🛠️ Tech Stack
 
-**Game Dev:** Unity · C# · Design Patterns (Strategy, Factory, Observer, State)
-**Web Dev:** Next.js · React · TypeScript · FastAPI · Python · Firebase
-**Tools:** Git · Docker · GitHub Actions · Figma
+| Category | Stack |
+|---|---|
+| Game Dev | Unity, C#, Design Patterns (Strategy, Factory, Observer, State) |
+| Web Dev | Next.js, React, TypeScript, FastAPI, Python, Firebase |
+| Tools | Git, Docker, GitHub Actions, Figma |
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Silaenn&theme=neon&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&layout=compact)
 
 ---
 
-<p align="center"><sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Silaenn&base=110" alt="visitor count"/></sub></p>
+<p align="center">
+  <sub>Profile views:</sub> <img src="https://komarev.com/ghpvc/?username=Silaenn&base=110" alt="visitor count" align="center"/>
+</p>
