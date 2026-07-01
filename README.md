@@ -37,9 +37,15 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Silaenn&theme=neon&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&layout=compact)
+<table>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true" width="380"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&layout=compact" width="380"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Silaenn&theme=neon&hide_border=true" width="760"/></td>
+</tr>
+</table>
 
 ---
 
