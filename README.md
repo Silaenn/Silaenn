@@ -13,7 +13,7 @@
 
 ---
 
-### 🎮 Featured Projects
+### Featured Projects
 
 **[TaskTune](https://task-tune.vercel.app)** — Full-stack productivity app with task management, YouTube music player, Google OAuth.
 `Next.js 15` `FastAPI` `Turso` `Zustand`
@@ -27,7 +27,7 @@
 `Unity3D` `C#` `Android`
 [repo](https://github.com/Silaenn/EdukatifDev)
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Stack |
 |---|---|
@@ -35,11 +35,11 @@
 | Web Dev | Next.js, React, TypeScript, FastAPI, Python, Firebase |
 | Tools | Git, Docker, GitHub Actions, Figma |
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Silaenn&theme=neon&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&layout=compact)
 
 ---
 
