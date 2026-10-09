@@ -1,54 +1,31 @@
-<h1 align="center">Deo Keldi Silaen</h1>
-<p align="center"><b>Game Developer & Full-Stack Web Developer</b> — D4 Game Technology, PENS Surabaya</p>
+# Deo Keldi Silaen
 
-<p align="center">
-  Building gameplay systems in Unity/C# and full-stack web products with Next.js, FastAPI, and React.
-</p>
+I'm a D4 Game Technology student at PENS Surabaya. I make games in Unity and web apps in React and Next.js, and my favorite projects are the ones where the two overlap, like a Windows 98 desktop that runs in a browser tab, or a piano built straight on the Web Audio API.
 
-<p align="center">
-  <a href="https://deosilaen.vercel.app">Portfolio</a> ·
-  <a href="https://instagram.com/deoosilaen">Instagram</a> ·
-  <a href="https://discord.gg/deoo2874">Discord</a>
-</p>
+I started with web in vocational school in Pekanbaru, got pulled into Unity later, and now I switch between both depending on what the idea needs.
 
----
+## Games
 
-### Featured Projects
+- [Jejak Pancasila](https://silaenn.itch.io/jejak-pancasila): a 2D pixel-art Android game about growing up. Your choices from elementary school to adulthood decide which of three endings you get.
+- [Last Bullet](https://silaenn.itch.io/last-bullet): you only have one bullet. Shoot, walk over to pick it up, shoot again.
+- [Whack a Bara](https://rozl.itch.io/whack-a-bara): whack-a-mole, but with bomb-carrying capybaras. Made in 72 hours with a team of 6 for GJ+ID25.
+- [Slip Past](https://silaenn.itch.io/slip-past): a stealth puzzle where you can only slide. 70 levels.
 
-**[TaskTune](https://task-tune.vercel.app)** — Full-stack productivity app with task management, YouTube music player, Google OAuth.
-`Next.js 15` `FastAPI` `Turso` `Zustand`
-[repo](https://github.com/Silaenn/MyTodoApp)
+## Web
 
-**[Chat App](https://chatskuy-app.vercel.app)** — Real-time chat with presence indicators, block/unblock, offline persistence.
-`React 18` `Firebase` `Zustand`
-[repo](https://github.com/Silaenn/react-chat)
+- [TaskTune](https://task-tune.vercel.app): task manager with a built-in YouTube music player. Next.js, FastAPI, Turso. ([repo](https://github.com/Silaenn/MyTodoApp))
+- [Chat App](https://chatskuy-app.vercel.app): real-time chat on Firebase with chat requests, read receipts, and block/unblock. ([repo](https://github.com/Silaenn/react-chat))
+- [StepFlow](https://step-flow-chi.vercel.app): multi-step form builder with drag and drop and an analytics dashboard, fully client-side. ([repo](https://github.com/Silaenn/Steps))
+- [Y2K Portfolio](https://alex-rivera-porto.vercel.app): a Windows 98 desktop simulator with draggable windows and a Start menu. ([repo](https://github.com/Silaenn/porto_modern))
 
-**[Jejak Pancasila](https://silaenn.itch.io/jejak-pancasila)** — 2D pixel art game about life choices reflecting Pancasila values.
-`Unity3D` `C#` `Android`
-[repo](https://github.com/Silaenn/EdukatifDev)
+## Side stuff
 
-### Tech Stack
+I wrote [Unity Roadmap](https://unity-roadmap.vercel.app), a free Unity curriculum in Bahasa Indonesia, 7 stages from C# basics to ECS/DOTS. I also made [Fullstack Roadmapp](https://fullstack-roadmapp.vercel.app) with 131 lessons.
 
-| Category | Stack |
-|---|---|
-| Game Dev | Unity, C#, Design Patterns (Strategy, Factory, Observer, State) |
-| Web Dev | Next.js, React, TypeScript, FastAPI, Python, Firebase |
-| Tools | Git, Docker, GitHub Actions, Figma |
+## Tools
 
-### GitHub Stats
+Unity, C#, TypeScript, React, Next.js, FastAPI, Firebase, Docker, Git
 
-<table>
-<tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true" width="380"/></td>
-<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Silaenn&theme=neon&hide_border=true&include_all_commits=true&layout=compact" width="380"/></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Silaenn&theme=neon&hide_border=true" width="660"/></td>
-</tr>
-</table>
+## Elsewhere
 
----
-
-<p align="center">
-  <sub>Profile views:</sub> <img src="https://komarev.com/ghpvc/?username=Silaenn&base=110" alt="visitor count" align="center"/>
-</p>
+[Portfolio](https://deosilaen.vercel.app) · [Instagram](https://instagram.com/deoosilaen) · [Discord](https://discord.gg/deoo2874)
